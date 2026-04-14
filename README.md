@@ -57,9 +57,9 @@ The accompanying bar chart visually reinforces this disparity. The bar represent
 - A large gap between the UK and other markets
 - Other countries contribute moderately and relatively evenly compared to the UK
  #### Business Insight
-The business is heavily reliant on the United Kingdom market
-Other markets, while present, contribute only a small fraction of total revenue
-There is an opportunity to:
+The business is heavily reliant on the United Kingdom market. 
+Other markets, while present, contribute only a small fraction of total revenue.
+**There is an opportunity to:**
 - Expand internationally
 - Strengthen underperforming markets
  ### Observation
@@ -95,9 +95,6 @@ However, price alone does not determine demand.
 Products can achieve:
 - High quantity with low revenue (low-priced items)
 - High revenue with moderate quantity (higher-priced items)
-#### Conclusion
-The combined analysis of quantity, revenue, and price demonstrates that while sales volume contributes to revenue, pricing plays an equally important role. The absence of a strong correlation between price and quantity highlights the complexity of demand behavior and emphasizes the need for a balanced pricing and product strategy.
-
 
 
 **Question 4.** which Products are sold in the hiest quantity?	
@@ -120,11 +117,11 @@ Differences in slice sizes highlight relative demand levels
 #### Business Insight
 A small number of products account for a large share of total sales volume.
 These products are key to:
-- Customer engagement
-- Frequent transactions
+- Customer engagement.
+- Frequent transactions.
 High demand products should be:
 - Consistently available
-- osely monitored in inventory
+- Closely monitored in inventory
 
 
 **Question 5.** How do sales vary over Time?
@@ -156,6 +153,41 @@ The line chart visually confirms this pattern:
  #### Key Analytical Observation
 The sharp increase from September to November suggests a high-demand season, possibly driven by promotions, holidays, or increased customer activity.
 The drop in December may indicate post-peak demand reduction or stock limitations.
+
+#### Findings
+Top Products: Certain products consistently generated higher sales. 
+Category Insights: Some categories outperformed others, reflecting customer preferences.
+ Regional Trends: Sales distribution varied by region, with some areas contributing more revenue. 
+Proportional Contributions: Pie charts revealed the percentage contribution of each product and category to total sales
+
+#### Recommendations
+Based on the findings from the analysis, the following recommendations are proposed:
+1. Focus on High-Performing Products
+- Increase inventory levels for top revenue-generating products
+- Prioritize these items in marketing and promotional campaigns
+2. Expand Market Reach
+- Reduce over-reliance on the United Kingdom by exploring growth opportunities in other countries
+- Develop targeted strategies to improve sales in underperforming regions
+3. Optimize Pricing Strategy
+- Review pricing for high-volume, low-revenue products
+- Introduce strategies to improve margins, such as bundling or price adjustments
+4. Strengthen Inventory Management
+- Ensure consistent availability of high-demand products
+- Use demand insights to avoid stockouts or overstocking
+5. Leverage Seasonal Trends
+- Increase stock and marketing efforts ahead of peak periods (especially September–November)
+- Introduce promotions during low-sales periods (e.g., January, February, and December)
+
+#### Conclusion
+The analysis demonstrates the value of using pivot tables and charts to understand sales performance and customer preferences. Visual insights from this study enable management to make informed, strategic decisions, optimize sales strategies, improve customer satisfaction, and maximize revenue.
+
+
+Author
+- Kor Isaac Tersue
+- Analyst.
+- Email: isaachimself03@gmail.com
+- Phone. 09036589441
+
 
 
 
